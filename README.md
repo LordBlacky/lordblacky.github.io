@@ -1,3 +1,5 @@
 # LordBlacky's personal Blog
 
-My personal blog
+Blog List
+
+[Last Blog](/post/post1.md)
