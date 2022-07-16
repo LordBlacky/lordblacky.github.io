@@ -2,4 +2,4 @@
 
 Blog List
 
-[Last Blog](/post/post1.md)
+[Last Blog](/post/post1.md).
