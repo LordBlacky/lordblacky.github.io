@@ -9,4 +9,5 @@ Nimmt man nun den dritten Begriff zur Hand, die "Selbstoptimierung", sieht man r
 So war das Endergebniss unserer gemeinsamen Diskussion die Erkenntniss recht unterschiedlich. So wurde zwar klar, dass für den Begriff Intelligenz eine Definition alleine schlichtweg nicht ausreicht,  jedoch eine Sammlung an Definitionen ein recht klares Bild erzeugt. Betrachtet man nun, wie im obigen Fall, diese Definitionen etwas genauer, fällt bei augenscheinlich unterschiedlichen Aspekten jedoch auf, dass diese in den meisten Fällen garnicht zu unterscheiden sind und lediglich einen einzigen Prozess beschreiben.
 
 Wenn du es nun bis zum Ende dieses Blogs geschafft hast, hoffe Ich, dass es dir gefallen hat und du etwas aus dieser doch wirren Diskussion mitnehmen kannst und dir weiterführend eigene Gedanken zu diesem Thema machen kannst.
+
 ---
