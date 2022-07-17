@@ -9,7 +9,7 @@ Coding-Interviews sind ein sehr häufig vorkommender Begriff in der IT, es gibt 
 Dazu würde Ich gerne zunächst einmal die ursprüngliche Idee hinter Coding-Interviews betrachten:
 
 Coding Interviews sollen zur Beurteilung von möglichen Kandidaten für eine Stelle in der IT-Industrie eingesetzt werden.
-Ursprünglich wurde diese Idee in den 1990er Jahren von Microsoft eingeführt und später von den großen FAANG-Unternehmen übernommen.
+Ursprünglich wurde diese Idee in den 1990er Jahren von Microsoft eingeführt und später von den großen FAANG-Konzernen übernommen.
 
 Dabei sollen diese die Fähigkeit Probleme zu lösen und vorallem die Kreativität der Bewerber testen, meist an einem WhiteBoard oder z.B. in GoogleDocs durchgeführt und nicht in einem speziellen Code-Editor. Dabei sollen diese Probleme eine große Anzahl an Kandidaten in zwei kleinere Mengen aufteilen: 
 1. mögliche Kandidaten 2. abgewiesene Kandidaten
