@@ -4,7 +4,7 @@
 
 ## 17. July 2022 - [German] - Post#2 - Was die Idee hinter Coding-Interviews ist, weshalb sie oft falsch eingesetzt werden und was diese auf GitHub zu suchen haben
 
-Coding-Interviews sind ein sehr häufig vorkommender Begriff in der IT, es gibt unzählige Videos on YouTube zu diesem Thema und viele Diskussionen, sowohl positiv als auch negativ. Aber warum gibt es so viel negative Kritik an diesen Coding-Interview und werden diese tatsächlich, wie so oft kritisiert, so oft falsch eingesetzt?
+Das Coding-Interview ist ein sehr häufig vorkommender Begriff in der IT, es gibt unzählige Videos on YouTube zu diesem Thema und viele Diskussionen, sowohl positiv als auch negativ. Aber warum gibt es so viel negative Kritik an diesen Coding-Interview und werden diese tatsächlich, wie so oft kritisiert, so oft falsch eingesetzt?
 
 Dazu würde Ich gerne zunächst einmal die ursprüngliche Idee hinter Coding-Interviews betrachten:
 
