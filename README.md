@@ -2,6 +2,15 @@
 
 ---
 
+## 19. July 2022 - [German] - Post#3 - "Ist Ubuntu ein gutes Betriebssystem oder gibt es bessere?" - Gibt es Betriebssysteme, die besser sind als andere?
+
+Vor kurem bin Ich auf einem Discord-Server auf die Frage gestoßen ob Ubuntu ein gutes Betriebssystem sei oder es da bessere gäbe. Diese Frage hat mich zum Denken angeregt und daraus ist dann dieser Blog entstanden. Viel Spaß beim lesen!
+
+Zunächst sei einmal gesagt, dass das Thema Betriebssystem ein viel diskutiertes Thema ist, so schwören manche Menschen auf dieses Betriebssystem, andere schwören auf ein anderes und ein nächster schwört wieder auf ein anderes. Dazu will Ich gerne direkt zu Beginn loswerden, dass dieser Blog lediglich meine Meinung zu diesem Thema wiederspiegelt und "lediglich eine Meinung" ist, da es bei diesem Thema meiner Meinung nach kein richtig oder falsch gibt.
+
+
+---
+
 ## 17. July 2022 - [German] - Post#2 - Was die Idee hinter Coding-Interviews ist, weshalb sie oft falsch eingesetzt werden und was diese auf GitHub zu suchen haben
 
 Das Coding-Interview ist ein sehr häufig vorkommender Begriff in der IT, es gibt unzählige Videos on YouTube zu diesem Thema und viele Diskussionen, sowohl positiv als auch negativ. Aber warum gibt es so viel negative Kritik an diesen Coding-Interview und werden diese tatsächlich, wie so oft kritisiert, so oft falsch eingesetzt?
