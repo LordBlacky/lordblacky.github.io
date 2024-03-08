@@ -50,7 +50,7 @@ Wir werden eine Sprache entwickeln, die durch einen Compiler in eine einfache Zw
 überschaubaren Befehlssatz. Wir werden diesen vermutlich in Python entwickeln.
 Im Anschluss wird diese dann durch eine passende VM ausgeführt. Diese werden wir in C entwickeln.
 
-Dabei bauen wir die VM in recht abstrahierter Form. Wir nutzen als Speicher vorallem Stacks, statt Registern und 
+Dabei bauen wir die VM in recht abstrahierter Form. Wir nutzen als Speicher vorallem Stacks, statt Register und 
 eine built-in dynamische Speicherverwaltung. Auf GarbageCollection werden wir zunächst verzichten.
 Für den Befehlssatz nehmen wir eine relativ High-Level-Repräsentation und keinen Bytecode.
 (was eigentlich die üblichere Variante ist, jedoch weniger leicht zu implementieren ist)
