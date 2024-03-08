@@ -6,7 +6,7 @@ published: true
 Ich schreibe diesen Post, um den Entwicklungsprozess  meiner eigenen Programmiersprache LEONUX zu teilen.
 
 Das soll zum einen dazu dienen, dass ich gezwungen bin, eine gewisse Struktur in meine Gedanken und den Prozess
-an sich bekomme, andererseits aber auch, dass andere von meinen Fehlern lernen können :) und auf mögliche Fragen,
+an sich zu bringen, andererseits aber auch, dass andere von meinen Fehlern lernen können :) und auf mögliche Fragen,
 hier vielleicht passende Antworten bekommen.
 
 > Ich möchte noch festhalten, dass ich selber kein Experte auf dem Gebiet bin und es nur darum ging, mögliche Ideen zur Thematik
