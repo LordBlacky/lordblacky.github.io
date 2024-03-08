@@ -1,5 +1,5 @@
 ---
-title: Leonux-Programming-Language (Writing a VM in C)
+title: Leonux-Programming-Language (Part 01 - Writing a VM in C)
 published: true
 ---
 
