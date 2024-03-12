@@ -58,4 +58,4 @@ Für den Befehlssatz nehmen wir eine relativ High-Level-Repräsentation und kein
 
 ## Grundlegender Aufbau der VM
 
-![LEONUX VM STRUCTURE](/_posts/LEONUX-VM-STRUCTURE.png){width=70%}
+![LEONUX VM STRUCTURE](/_posts/LEONUX-VM-STRUCTURE.png)
