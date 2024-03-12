@@ -55,3 +55,7 @@ eine built-in dynamische Speicherverwaltung. Auf GarbageCollection werden wir zu
 Für den Befehlssatz nehmen wir eine relativ High-Level-Repräsentation und keinen Bytecode.
 (was eigentlich die üblichere Variante ist, jedoch weniger leicht zu implementieren ist)
 
+
+## Grundlegender Aufbau der VM
+
+![LEONUX-VM-STRUCTURE](./LEONUX-VM-STRUCTURE.png) | width=70
