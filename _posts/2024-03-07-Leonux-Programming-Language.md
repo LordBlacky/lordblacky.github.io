@@ -1,6 +1,6 @@
 ---
 title: Leonux-Programming-Language (Part 01 - Writing a VM in C)
-published: true
+published: false
 ---
 
 Ich schreibe diesen Post, um den Entwicklungsprozess  meiner eigenen Programmiersprache LEONUX zu teilen.
